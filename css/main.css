@@ -8,7 +8,7 @@
 body {
   font-family: 'DM Sans', sans-serif;
   background-color: #fafafa;
-  color: #002343;
+  color: #000000;
   font-weight: regular;
   margin: auto;
   overflow-x: hidden;
@@ -30,7 +30,7 @@ html{
   padding: 4rem 2rem;
   width: 100%;
   display: inline-block;
-  background-color: #BCD8F2;
+  background-color: #fdbb31;
 }
 
 .title-banner {
@@ -72,7 +72,7 @@ h3.product{
 
 h4 {
   font-family: 'DM Sans', sans-serif;
-  color:#002343;
+  color:#000000;
   margin-bottom: 0.25rem;
   font-weight: 600;
 }
@@ -255,7 +255,7 @@ input:focus {
 /* Styling for the navigation button */
 .button-nav {
   color: #fafafa;
-  background-color: #002343;
+  background-color: #000000;
   font-size: 1rem;
   padding: 0.75rem 1.1rem;
   border-radius: 1.5rem;
@@ -271,8 +271,8 @@ input:focus {
 
 .button-nav:hover,
 .button-nav:focus {
-  color:#002343;
-  background-color: #BCD8F2;
+  color:#ffffff;
+  background-color: #d6b600;
   text-decoration: underline;
 }
 
@@ -293,8 +293,8 @@ input:focus {
   COMBINED ELEMENTS -------------------
 */
 .nav-item {
-  color: #002343;
-  background-color: #BCD8F2;
+  color: #ffffff;
+  background-color: #252525;
   font-size: 1rem;
   padding: 0.75rem 1.1rem;
   border-radius: 1.5rem;
@@ -309,19 +309,19 @@ input:focus {
 .nav-item:hover,
 .nav-item:focus {
   color:#fafafa;
-  background-color: #002343;
+  background-color: #d6b600;
   text-decoration: underline;
 }
 .nav-bar {
   padding: 1rem;
-  background-color: #BCD8F2;
+  background-color: #fafafa;
 }
 
 .product-cards {
   margin-left: auto;
   margin-right: auto;
   justify-content: space-between;
-  border: 2px solid #BCD8F2;
+  border: 2px solid #d6b600;
   background-color: #fcfcf7;
   max-width: 100%;
   padding: 1rem 1rem 2rem;
