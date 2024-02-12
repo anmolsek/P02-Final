@@ -309,7 +309,7 @@ input:focus {
 .nav-item:hover,
 .nav-item:focus {
   color:#fafafa;
-  background-color: #d6b600;
+  background-color: #fdbb31;
   text-decoration: underline;
 }
 .nav-bar {
@@ -321,7 +321,7 @@ input:focus {
   margin-left: auto;
   margin-right: auto;
   justify-content: space-between;
-  border: 2px solid #d6b600;
+  border: 2px solid #fdbb31;
   background-color: #fcfcf7;
   max-width: 100%;
   padding: 1rem 1rem 2rem;
@@ -359,8 +359,8 @@ td{
 th{
   text-align: left;
   padding: 10px;
-  color: #002343;
-  background-color: #BCD8F2;
+  color: #000000;
+  background-color: #fdbb31;
   font-weight: bold;
 }
 
@@ -387,7 +387,7 @@ th{
 }
 
 .total-price table{
-  border-top: 3px solid #BCD8F2;
+  border-top: 3px solid #fdbb31;
   width: 100%;
   max-width: 400px;
 }
