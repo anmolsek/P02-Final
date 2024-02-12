@@ -238,17 +238,17 @@ input:focus {
 
 /* Image as link */
 .img-item {
-  outline: 2px dashed #BCD8F2;
+  outline: 2px dashed #fff4dd;
   transition: transform 0.2s;
   border-radius: 0.1rem;
-  box-shadow: 0px 1px 5px 5px #002343;
+  box-shadow: 0px 1px 5px 5px #000000;
 }
 
 .img-item:hover,
 .img-item:focus {
   transform: scale(1.04);
   opacity: 0.85;
-  outline: 2px solid #BCD8F2;
+  outline: 2px solid #ffefce;
   /* reference for zoom on hover: https://www.w3schools.com/howto/howto_css_zoom_hover.asp */
 }
 
