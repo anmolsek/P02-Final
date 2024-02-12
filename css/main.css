@@ -178,7 +178,7 @@ button, input[type="submit"], input[type="reset"] {
 
 form {
   max-width: 30rem;
-  border: 2px #002343;
+  border: 2px #000000;
 }
 
 label {
@@ -271,14 +271,14 @@ input:focus {
 
 .button-nav:hover,
 .button-nav:focus {
-  color:#ffffff;
-  background-color: #fdbb31;
+  color:#000000;
+  background-color: #fff4dd;
   text-decoration: underline;
 }
 
 .cart {
   background-color: #fdbb31;
-  color: #002343;
+  color: #000000;
 }
 
 
@@ -308,7 +308,7 @@ input:focus {
 
 .nav-item:hover,
 .nav-item:focus {
-  color:#fafafa;
+  color:#000000;
   background-color: #fdbb31;
   text-decoration: underline;
 }
