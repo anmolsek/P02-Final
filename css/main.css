@@ -196,7 +196,7 @@ input {
   line-height: 1.6;
   padding: 0.4rem;
   width: 100%;
-  border: 2.5px solid #BCD8F2;
+  border: 2.5px solid #b9b9b9;
   border-radius: 0.4rem;
   font-family: "DM Sans", sans-serif;
   background-color: #fcfcf7;
@@ -218,9 +218,9 @@ input:hover {
 }
 
 input:focus {
-  outline: #002343;
-  border-color: #002343;
-  background-color: #BCD8F2;
+  outline: #fdbb31;
+  border-color: #fdbb31;
+  background-color: #fff4dd;
 }
 
 
@@ -233,7 +233,7 @@ input:focus {
 .text-link:hover,
 .text-link:focus {
   color: white;
-  background-color: #002343;
+  background-color: #fdbb31;
 }
 
 /* Image as link */
@@ -272,7 +272,7 @@ input:focus {
 .button-nav:hover,
 .button-nav:focus {
   color:#ffffff;
-  background-color: #d6b600;
+  background-color: #fdbb31;
   text-decoration: underline;
 }
 
